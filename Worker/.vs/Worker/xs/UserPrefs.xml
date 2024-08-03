@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{51A30BC6-064B-4F7F-89FA-B6CE833543AA}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Worker/Entities/Worker.cs">
+    <Files>
+      <File FileName="Worker/Program.cs" Line="32" Column="51" />
+      <File FileName="Worker/Entities/Worker.cs" Line="30" Column="1" />
+      <File FileName="Worker/Entities/HourContract.cs" Line="22" Column="4" />
+      <File FileName="Worker/Entities/Department.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Worker" expanded="True">
+            <Node name="Worker" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Worker.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Worker PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
